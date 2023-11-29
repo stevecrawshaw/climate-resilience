@@ -1,0 +1,40 @@
+
+Drought Severity Index, 12-Month Accumulations - Projections | Drought Severity Index, 12-Month Accumulations - Projections | The Met Office climate data portal
+https://climatedataportal.metoffice.gov.uk/datasets/TheMetOffice::drought-severity-index-12-month-accumulations-projections/explore
+ 
+
+Historic data
+
+1981-2000: DSI12 baseline 1981-2000 median & DSI12 baseline 1981-2000 upper
+
+2000-2017: DSI12 baseline 2000-2017 median & DSI12 baseline 2000-2017 upper
+
+ 
+
+Future data
+
+Global warming level 2C: DSI12 2.0 median & DSI12 2.0 upper
+
+Global warming level 4C: DSI12 4.0 median & DSI12 4.0 upper
+
+ 
+
+Summer Maximum Temperature Change - Projections (12km) | The Met Office climate data portal
+https://climatedataportal.metoffice.gov.uk/datasets/TheMetOffice::summer-maximum-temperature-change-projections-12km/about
+ 
+
+Historic data
+
+1981-2000: tasmax summer baseline 1981-2000 median & tasmax summer baseline 1981-2000 upper
+
+2001-2020: tasmax summer change 2001-2020 median & tasmax summer 2001-2020 upper
+
+ 
+
+Future data
+
+Global warming level 2C: tasmax summer change 2.0 median & tasmax summer change 2.0 upper
+
+Global warming level 4C: tasmax summer change 4.0 median & tasmax summer change 4.0 upper
+
+ 
